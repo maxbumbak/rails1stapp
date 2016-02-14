@@ -1,2 +1,2 @@
-# rails1stapp
-Pierwsza aplikacja Maxa
+# Pierwsza aplikacja Maxa w Railsach.
+Pierwsza aplikacja Maxa.
